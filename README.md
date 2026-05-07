@@ -1,21 +1,21 @@
-# 🌸 Iris Flower Classification Project
+#  Iris Flower Classification Project
 
-## 📌 Objective
+##  Objective
 
 The objective of this project is to build a machine learning model that can classify iris flowers into different species based on their physical features.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset used in this project is the Iris dataset.
 
-🔗 Dataset Link:
+ Dataset Link:
 https://www.kaggle.com/datasets/bhanupratapbiswas/iris-classification-dataset
 
 ---
 
-## 🧠 Features Used
+##  Features Used
 
 The model uses the following input features:
 
@@ -26,13 +26,13 @@ The model uses the following input features:
 
 ---
 
-## 🎯 Target Variable
+##  Target Variable
 
 * Species (Setosa, Versicolor, Virginica)
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Pandas
@@ -44,7 +44,7 @@ The model uses the following input features:
 
 ---
 
-## 🔍 Steps Performed
+##  Steps Performed
 
 ### 1. Data Loading
 
@@ -83,13 +83,13 @@ Three models were trained:
 
 ---
 
-## 🏆 Best Model
+##  Best Model
 
 K-Nearest Neighbors (KNN) performed best with the highest accuracy.
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 * Accuracy
 * Precision
@@ -98,7 +98,7 @@ K-Nearest Neighbors (KNN) performed best with the highest accuracy.
 
 ---
 
-## 💾 Model Saving
+##  Model Saving
 
 The trained model was saved using Joblib as:
 
@@ -106,7 +106,7 @@ iris_model.pkl
 
 ---
 
-## 🧪 Example Prediction
+##  Example Prediction
 
 Input:
 [5.1, 3.5, 1.4, 0.2]
@@ -116,7 +116,7 @@ Setosa
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open the notebook in Google Colab or Jupyter Notebook
 2. Run all cells step by step
@@ -125,7 +125,7 @@ Setosa
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 * iris_project.ipynb (Notebook)
 * iris_model.pkl (Saved Model)
@@ -133,7 +133,7 @@ Setosa
 
 ---
 
-## 📚 Libraries Documentation Links
+##  Libraries Documentation Links
 
 Pandas: https://pandas.pydata.org/docs/
 NumPy: https://numpy.org/doc/
@@ -149,11 +149,11 @@ https://drive.google.com/drive/folders/15Ndq5v4jalCBsuzwy9inkh6Xtng6psJy?usp=sha
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project successfully demonstrates the use of machine learning algorithms to classify iris flower species with high accuracy. Among all models, KNN performed the best.
 
 ---
 
-## 👩‍💻 Author
+## Author
 Khushi Gupta
